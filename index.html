@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>信義安和站購屋研究｜8,000 萬 · 室內 26 坪</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand"><strong>信義安和站購屋研究</strong><span id="brandSub">個人研究筆記 · 非購屋或投資建議</span></div>
+    <div class="header-tools">
+      <button class="btn small" id="themeBtn" type="button" aria-label="切換深淺色">◐ 深淺色</button>
+    </div>
+  </div>
+  <nav class="nav" id="nav" aria-label="主選單">
+    <a href="#overview" data-view="overview">研究總覽</a>
+    <a href="#list" data-view="list">房源列表<span class="count" id="navCount"></span></a>
+    <a href="#map" data-view="map">地圖</a>
+    <a href="#compare" data-view="compare">並排比較<span class="count" id="navCompare">0</span></a>
+    <a href="#market" data-view="market">市場與社區</a>
+    <a href="#notes" data-view="notes">收藏與筆記<span class="count" id="navFav">0</span></a>
+    <a href="#checklist" data-view="checklist">看屋清單</a>
+    <a href="#method" data-view="method">方法與來源</a>
+  </nav>
+</header>
+
+<main id="main">
+  <noscript>
+    <div class="callout warn"><p>這個網站需要 JavaScript 才能使用篩選、比較與筆記功能。離線可讀的完整文字版請開啟同資料夾的 <a href="research_summary.md">research_summary.md</a> 與 <a href="exports/properties.csv">exports/properties.csv</a>。</p></div>
+  </noscript>
+  <div id="bootError" class="callout bad" style="display:none"></div>
+
+  <section class="view" id="view-overview" aria-labelledby="h-overview"></section>
+  <section class="view" id="view-list" aria-labelledby="h-list"></section>
+  <section class="view" id="view-map" aria-labelledby="h-map"></section>
+  <section class="view" id="view-property"></section>
+  <section class="view" id="view-compare"></section>
+  <section class="view" id="view-market"></section>
+  <section class="view" id="view-notes"></section>
+  <section class="view" id="view-checklist"></section>
+  <section class="view" id="view-method"></section>
+</main>
+
+<div class="tray" id="tray" role="status" aria-live="polite">
+  <span id="trayText"></span>
+  <a class="btn small" href="#compare">開始比較</a>
+  <button class="btn small ghost" type="button" id="trayClear">清除</button>
+</div>
+<div class="tooltip" id="tooltip" role="tooltip"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<footer class="site-footer">
+  <p id="footText"></p>
+</footer>
+
+<script src="data/bundle.js"></script>
+<script src="assets/logic.js"></script>
+<script src="assets/vendor/leaflet/leaflet.js" onerror="window.__leafletFailed = true"></script>
+<script src="assets/charts.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

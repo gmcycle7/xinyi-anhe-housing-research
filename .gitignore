@@ -1,0 +1,7 @@
+# 只在本機保留：各平台原始頁面、隔離的 591 資料、管線中間產物
+research_raw/
+# 介面測試截圖（可由 node tools/ui_test.js 重新產生）
+qa/*.png
+.DS_Store
+__pycache__/
+*.pyc

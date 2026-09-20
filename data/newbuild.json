@@ -1,0 +1,270 @@
+{
+ "projects": [
+  {
+   "name": "志榮安邸",
+   "builder": "墩和開發股份有限公司（志榮集團）；代銷：甲桂林廣告",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區安和路一段139號2樓",
+   "size_range_ping": "實價登錄（不含車位）19.5–29.1 坪（13 筆）",
+   "price_info": "實價登錄扣車位單價 188–206 萬/坪（中位數 196；13 筆，已排除解約與特殊關係交易）",
+   "expected_completion": "PLEX：2029Q4",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/8731",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（面積不足）：8,000 萬內成交的最大戶為不含車位 29.1 坪，估算主建物約 16.1–16.6 坪（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 13,
+   "lvr_tx_period": "2025-09-22～2026-04-22",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/8731",
+    "https://house.udn.com/house/story/123598/9055286",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "耑岫（大陸耑岫）",
+   "builder": "大陸建設股份有限公司；代銷：慕樺廣告（PLEX）",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區義安里信義路四段",
+   "size_range_ping": "實價登錄（不含車位）20.8–41.7 坪（25 筆）",
+   "price_info": "實價登錄扣車位單價 180–220 萬/坪（中位數 192；25 筆，已排除解約與特殊關係交易）",
+   "expected_completion": "2027 年第四季（PLEX）；另有彙整頁稱「預計2027年完工」",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/4969",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（面積不足）：8,000 萬內成交的最大戶為不含車位 41.7 坪，估算主建物約 23.1–23.8 坪（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 35,
+   "lvr_tx_period": "2024-06-03～2025-06-30",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/4969",
+    "https://build.myhousing.com.tw/289023/",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "吾雙",
+   "builder": "華璞建設（華固建設、璞真建設、勤美集團合作）；代銷：新聯智廣告／新聯陽機構（PLEX）",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區信義路四段408號",
+   "size_range_ping": "實價登錄（不含車位）21.6–69.8 坪（4 筆）",
+   "price_info": "實價登錄扣車位單價 189–211 萬/坪（中位數 193；4 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 13,043–14,398 萬（含車位，2 筆）",
+   "expected_completion": "2028 年第四季（PLEX）",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/6930",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（超出預算）：估算主建物可能達 26 坪的戶別（不含車位 ≥45 坪）成交總價最低 13,043 萬（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 115,
+   "lvr_tx_period": "2024-09-23～2026-03-09",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/6930",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "安和自在",
+   "builder": "首鋼開發股份有限公司（營造：首鋼營造；企劃銷售：大東方開發）",
+   "stage": "新成屋",
+   "location_public": "實價登錄無成交，位置未取得",
+   "size_range_ping": "實價登錄（不含車位）15.2–21.2 坪（11 筆）",
+   "price_info": "實價登錄扣車位單價 154–161 萬/坪（中位數 158；11 筆，已排除解約與特殊關係交易）",
+   "expected_completion": "已完工：使用執照 113使字第0888號；實登建築完成年月 113/11/06",
+   "expected_completion_source": "使用執照／實價登錄",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（面積不足）：8,000 萬內成交的最大戶為不含車位 21.2 坪，估算主建物約 11.8–12.2 坪（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 15,
+   "lvr_tx_period": "2025-01-17～2026-05-14",
+   "source_urls": [
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "首泰信義",
+   "builder": "首泰建設股份有限公司（自售）",
+   "stage": "新成屋",
+   "location_public": "實價登錄無成交，位置未取得",
+   "size_range_ping": "實價登錄（不含車位）91.3–130.0 坪（9 筆）",
+   "price_info": "實價登錄扣車位單價 187–211 萬/坪（中位數 195；9 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 17,090–25,588 萬（含車位，9 筆）",
+   "expected_completion": "已完工：使用執照 110使字第155號等",
+   "expected_completion_source": "使用執照／實價登錄",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（超出預算）：估算主建物可能達 26 坪的戶別（不含車位 ≥45 坪）成交總價最低 17,090 萬（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 14,
+   "lvr_tx_period": "2024-06-05～2025-07-08",
+   "source_urls": [
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "富藝居（富邦富藝居）",
+   "builder": "富邦建設；代銷：甲桂林廣告",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區信義路四段30巷23號",
+   "size_range_ping": "實價登錄（不含車位）19.5–59.1 坪（64 筆）",
+   "price_info": "實價登錄扣車位單價 175–202 萬/坪（中位數 187；64 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 8,830–11,010 萬（含車位，13 筆）",
+   "expected_completion": "2030 年第四季／2030年12月（PLEX、市場彙整）",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/8991",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（超出預算）：估算主建物可能達 26 坪的戶別（不含車位 ≥45 坪）成交總價最低 8,830 萬（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 67,
+   "lvr_tx_period": "2025-12-14～2026-07-31",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/8991",
+    "https://build.myhousing.com.tw/684080/",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "德運安和",
+   "builder": "德運建設；代銷：傳美廣告／傳真機構（PLEX）",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區全安里和平東路三段",
+   "size_range_ping": "實價登錄（不含車位）27.8–66.4 坪（53 筆）",
+   "price_info": "實價登錄扣車位單價 153–208 萬/坪（中位數 185；53 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 8,045–14,616 萬（含車位，42 筆）",
+   "expected_completion": "來源不一致：PLEX「2030年第三季完工」；另一市場彙整頁稱「預計2032/03交屋」（地上36層地下6層，研究推論：以較晚者保守看待）",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/8210",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "邊緣、未確認：夠大的戶別含車位都超過 8,000 萬；若車位可不買，有 5 筆的屋價在 8,000 萬內（最低 7,685 萬）。車位能否不買未查得 → 總價待確認；主建物為估算（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 55,
+   "lvr_tx_period": "2025-05-12～2026-05-08",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/8210",
+    "https://build.myhousing.com.tw/458595/",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "德運元鼎",
+   "builder": "德運建設；代銷：新聯信廣告／新聯陽（PLEX）",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區正聲里光復南路240巷、260巷",
+   "size_range_ping": "實價登錄（不含車位）30.3–53.6 坪（29 筆）",
+   "price_info": "實價登錄扣車位單價 177–215 萬/坪（中位數 199；29 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 9,638–12,260 萬（含車位，23 筆）",
+   "expected_completion": "PLEX",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/8832",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（超出預算）：估算主建物可能達 26 坪的戶別（不含車位 ≥45 坪）成交總價最低 9,638 萬（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 31,
+   "lvr_tx_period": "2025-09-20～2026-04-27",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/8832",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "鑄慕（集順鑄慕 RADIUM ONE）",
+   "builder": "集順生活科技（日勝生集團）；代銷：新聯祥廣告／新聯陽（PLEX）",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區正聲里光復南路260巷、280巷",
+   "size_range_ping": "實價登錄（不含車位）23.9–51.2 坪（17 筆）",
+   "price_info": "實價登錄扣車位單價 179–211 萬/坪（中位數 199；17 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 9,488–10,340 萬（含車位，8 筆）",
+   "expected_completion": "2028 年第四季（PLEX）",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/3616",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（超出預算）：估算主建物可能達 26 坪的戶別（不含車位 ≥45 坪）成交總價最低 9,488 萬（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 17,
+   "lvr_tx_period": "2024-05-16～2025-03-04",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/3616",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "敦南詠楽",
+   "builder": "精誠國際建設企業股份有限公司；代銷：聯碩地產行銷",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區四維路228巷",
+   "size_range_ping": "實價登錄（不含車位）34.6–62.1 坪（15 筆）",
+   "price_info": "實價登錄扣車位單價 155–167 萬/坪（中位數 162；15 筆，已排除解約；僅有特殊關係或地主戶交易，不宜視為行情）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 8,434–11,458 萬（含車位，7 筆）",
+   "expected_completion": "PLEX 同；媒體報導稱2029年完工交屋",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/6683",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "邊緣、未確認：夠大的戶別含車位都超過 8,000 萬；若車位可不買，有 1 筆的屋價在 8,000 萬內（最低 7,969 萬）。車位能否不買未查得 → 總價待確認；主建物為估算（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 15,
+   "lvr_tx_period": "2025-01-08～2026-07-31",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/6683",
+    "https://yongle.tw/",
+    "https://finance.technews.tw/2025/04/10/volume-transfer/",
+    "https://annewsmedia.com/2025/04/10/market-news/6866/",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "緻信義",
+   "builder": "利通建設實業有限公司；代銷：五率國際廣告",
+   "stage": "預售屋",
+   "location_public": "臺北市信義區基隆路二段64~72號",
+   "size_range_ping": "實價登錄（不含車位）11.3–30.1 坪（20 筆）",
+   "price_info": "實價登錄扣車位單價 163–172 萬/坪（中位數 166；20 筆，已排除解約與特殊關係交易）",
+   "expected_completion": "未取得（可查得的來源只有 591，未採用）",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/6286",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（面積不足）：8,000 萬內成交的最大戶為不含車位 30.1 坪，估算主建物約 16.7–17.2 坪（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 21,
+   "lvr_tx_period": "2024-06-19～2025-05-27",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/6286",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "華誼信義-閱明（另一區：華誼信義-閱翠）",
+   "builder": "華誼建設",
+   "stage": "預售屋",
+   "location_public": "臺北市信義區基隆路二段２２號旁",
+   "size_range_ping": "實價登錄（不含車位）17.9–63.4 坪（23 筆）",
+   "price_info": "實價登錄扣車位單價 154–185 萬/坪（中位數 159；23 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 9,150–11,980 萬（含車位，3 筆）",
+   "expected_completion": "預計2030年（信義代銷頁稱預計完工日2030年10月）",
+   "expected_completion_source": "https://www.sinyi.com.tw/buy/rema/project/hxoo；https://www.plex.com.tw/projects/view/id/4473；https://www.plex.com.tw/projects/view/id/4477",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（超出預算）：估算主建物可能達 26 坪的戶別（不含車位 ≥45 坪）成交總價最低 9,150 萬（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 23,
+   "lvr_tx_period": "2024-05-15～2026-04-29",
+   "source_urls": [
+    "https://www.sinyi.com.tw/buy/rema/project/hxoo",
+    "https://www.plex.com.tw/projects/view/id/4473",
+    "https://www.plex.com.tw/projects/view/id/4477",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "永陞信義安和案（永陞通化段四小段案，無正式案名）",
+   "builder": "永陞建設",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區通安里安和路二段",
+   "size_range_ping": "實價登錄（不含車位）106.9–106.9 坪（9 筆）",
+   "price_info": "實價登錄扣車位單價 149–196 萬/坪（中位數 172；9 筆，已排除解約與特殊關係交易）；不含車位 ≥45 坪的戶別（估算主建物才可能達 26 坪）成交總價 16,780–21,888 萬（含車位，9 筆）",
+   "expected_completion": "未取得（可查得的來源只有 591，未採用）",
+   "expected_completion_source": "https://www.plex.com.tw/projects/view/id/6149",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（超出預算）：估算主建物可能達 26 坪的戶別（不含車位 ≥45 坪）成交總價最低 16,780 萬（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 10,
+   "lvr_tx_period": "2024-07-03～2026-05-06",
+   "source_urls": [
+    "https://www.plex.com.tw/projects/view/id/6149",
+    "https://build.myhousing.com.tw/295888/",
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  },
+  {
+   "name": "大安昕居",
+   "builder": "未取得",
+   "stage": "預售屋",
+   "location_public": "臺北市大安區住安里四維路154巷5之2號",
+   "size_range_ping": "實價登錄（不含車位）16.2–32.9 坪（9 筆）",
+   "price_info": "實價登錄扣車位單價 129–142 萬/坪（中位數 137；9 筆，已排除解約；僅有特殊關係或地主戶交易，不宜視為行情）",
+   "expected_completion": "未取得（可查得的來源只有 591，未採用）",
+   "expected_completion_source": "",
+   "sales_status": "實際是否仍有符合條件的戶別可售，需向建商或代銷確認（本研究未聯絡任何人）",
+   "fits_budget_assessment": "不符合（面積不足）：8,000 萬內成交的最大戶為不含車位 32.9 坪，估算主建物約 18.3–18.8 坪（研究推論；預售實價登錄沒有主建物欄位）",
+   "lvr_tx_count": 9,
+   "lvr_tx_period": "2025-09-10～2025-09-17",
+   "source_urls": [
+    "https://plvr.land.moi.gov.tw/DownloadOpenData"
+   ]
+  }
+ ],
+ "summary": [
+  "結論：本研究檢視了站區周邊 14 個預售屋／建商新成屋建案的實價登錄成交，沒有查到任何可確認「總價 ≤8,000 萬且主建物 ≥26 坪」的戶別。",
+  "原因是新案公設比高：站旁兩個新成屋的成屋實價登錄（有主建物登記值）顯示，主建物只占不含車位權狀的約 55.5–57.2%，主建物 26 坪約需 45–47 坪權狀（不含車位）；而本區新案的預售實登單價多在每坪 150–230 萬，這個坪數的總價通常已超過 8,000 萬，還不含車位。",
+  "最接近的是：德運安和、敦南詠楽——都屬「邊緣、未確認」，主建物需向建商索取面積表，車位能否不買也未查得；預計完工時間見下表。",
+  "因此主要住宅推薦名單全部是中古屋。房仲平台上屋齡 0 年、格局未填的刊登（與預售建案同名）已在房源列表標為「預售屋」，不與中古屋混排，也不與中古成交比價。",
+  "資料來源：內政部實價登錄預售屋與成屋成交（官方開放資料）；建商與完工時間取自第三方建案平台（PLEX）、媒體或使用執照資訊。591 新建案頁與 591 實價社區頁的內容（座標、步行估算、公設比、開價、銷售動態）未採用；各建案到捷運站的步行時間因此未估算。預售成交有登記時間差，2026 年 5 月中以後的交易尚未完整揭露。"
+ ]
+}

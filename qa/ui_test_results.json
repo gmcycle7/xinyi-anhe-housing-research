@@ -1,0 +1,239 @@
+{
+  "ran_at": "2026-09-20T09:50:21.989Z",
+  "url": "file:///Users/matthuang/claude_code/%E5%8F%B0%E5%8C%97%E4%BF%A1%E7%BE%A9%E8%B2%B7%E6%88%BF/xinyi-anhe-housing-research/index.html",
+  "pass": 46,
+  "fail": 0,
+  "results": [
+    {
+      "name": "U1 以 file:// 直接開啟，資料載入（不需伺服器）",
+      "ok": true,
+      "detail": "280 間"
+    },
+    {
+      "name": "U2 總覽頁顯示研究日期、預算與兩種面積口徑",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U3 總覽計數：A符合＋僅B＋待確認＋不符合 = 候選總數（待確認不計入符合）",
+      "ok": true,
+      "detail": "{\"total\":280,\"A\":115,\"Bonly\":29,\"pendingA\":87,\"notfit\":49,\"over\":16,\"needPrice\":3,\"needArea\":39,\"needLoc\":34,\"needUse\":43,\"primary\":126,\"extended\":97}"
+    },
+    {
+      "name": "U4 卡片模式有內容",
+      "ok": true,
+      "detail": "280 張卡片"
+    },
+    {
+      "name": "U5 每張卡片同時顯示主建物與主＋附（不只顯示權狀）",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U6 每張卡片有原始來源連結",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U7 口徑切換 A→B 後符合數不減少，且 B 模式橫幅提醒「不等於純室內」",
+      "ok": true,
+      "detail": "A=115 B=144"
+    },
+    {
+      "name": "U8 總價 ≤5,000 萬篩選生效",
+      "ok": true,
+      "detail": "280 → 146"
+    },
+    {
+      "name": "U9 電梯篩選生效",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U10 調整預算為 6,000 萬後，6,000 萬以上物件不再顯示為「總價在預算內」",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U11 表格模式可用，且有主建物與主＋附欄位",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U35 逐字輸入預算 7500（每鍵間隔 0.4 秒）欄位值不被打亂，且尚未套用",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U36 按 Enter／離開欄位後預算套用為 7,500，全站重算",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U37 預設排序：優先看屋 → 先補資料 → 不符合，順序單調",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U38 預設不隱藏任何候選（列表數 = 候選總數）",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U12 收藏後導覽列計數 +1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U13 取消收藏後計數歸 0",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U14 物件研究頁回答五個問題",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U15 物件頁有「開啟原始刊登頁」連結",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U16 並排比較 3 間：表格有 3 個物件欄＋必要列",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U17 重新開啟後收藏仍存在",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U18 重新開啟後筆記仍存在",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U19 資料中已不存在的物件（XA-999），其筆記仍保留並標示",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U20 筆記頁提供 JSON／CSV 匯出與匯入",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U21 比較清單重新開啟後仍存在",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U22 地圖顯示出入口與物件標記",
+      "ok": true,
+      "detail": "279 個標記"
+    },
+    {
+      "name": "U23 概略位置以虛線外框標示；圖例說明「直線距離圈（不是步行時間圈）」",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U24 市場頁三張圖皆有繪出，且標示樣本數",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U25 看屋清單與方法頁有內容",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U26 底圖載入失敗時顯示提示，文字版位置清單仍在",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U27 底圖失敗時列表仍可用",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U28 地圖元件載入失敗時，顯示替代文字清單與地圖查詢連結",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U29 地圖元件失敗時總覽、分析、來源仍可閱讀",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U30 地圖元件失敗時市場分析仍可閱讀",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#overview",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#list",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#property/ID",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#compare",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#market",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#notes",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#checklist",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#method",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U31 手機 390px 無水平溢出：#map",
+      "ok": true,
+      "detail": "溢出 0px"
+    },
+    {
+      "name": "U32 手機版導覽列可橫向捲動且每個連結可點",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U33 頁面沒有佔位字樣、undefined、NaN",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "U34 整個流程沒有 JavaScript 例外或 console.error",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "console_errors": []
+}

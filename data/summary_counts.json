@@ -1,0 +1,20 @@
+{
+ "candidates": 280,
+ "A_confirmed": 115,
+ "B_only": 29,
+ "pending": 87,
+ "not_fit": 49,
+ "over_budget": 16,
+ "need_price": 3,
+ "need_area": 39,
+ "need_loc": 34,
+ "need_use": 43,
+ "first_round": [
+  "XA-124",
+  "XA-025",
+  "XA-055",
+  "XA-111",
+  "XA-144",
+  "XA-022"
+ ]
+}

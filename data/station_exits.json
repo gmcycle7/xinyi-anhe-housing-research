@@ -1,0 +1,9 @@
+{"source":"https://web.metro.taipei/pages/tw/station/101 (官方 API: /apis/metrostationapi/stationdetail, SID=101)","fetched_at":"2026-09-20","station":{"name":"信義安和","code":"R04","address":"106049臺北市大安區信義路4段212之1號B1","lat":25.033015,"lng":121.552326},
+"exits":[
+{"no":"1","desc":"信義路4段與安和路1段路口","lat":25.033377,"lng":121.552602,"elevator":false,"escalator":true,"stairs":true},
+{"no":"2","desc":"信義路4段與安和路2段路口、安和路派出所前","lat":25.033032,"lng":121.552332,"elevator":false,"escalator":true,"stairs":true},
+{"no":"2A","desc":"信義路4段與安和路2段路口（無障礙電梯出口）","lat":25.032848,"lng":121.552582,"elevator":true,"escalator":false,"stairs":false},
+{"no":"3","desc":"信義路4段236號與通安街口","lat":25.033022,"lng":121.553282,"elevator":false,"escalator":false,"stairs":true},
+{"no":"4","desc":"信義路4段248號與通安街口","lat":25.033022,"lng":121.5534,"elevator":false,"escalator":true,"stairs":false},
+{"no":"5","desc":"信義路4段239巷口","lat":25.033326,"lng":121.553526,"elevator":true,"escalator":true,"stairs":false}
+]}

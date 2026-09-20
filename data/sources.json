@@ -1,0 +1,431 @@
+{
+ "sources": [
+  {
+   "title": "台北捷運官方車站資訊：信義安和站（SID=101）",
+   "url": "https://web.metro.taipei/pages/tw/station/101",
+   "type": "官方",
+   "used_for": "6 個出入口的編號、位置描述、座標、電梯",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "內政部不動產成交案件實際資訊資料供應系統（開放資料下載）",
+   "url": "https://plvr.land.moi.gov.tw/DownloadOpenData",
+   "type": "官方",
+   "used_for": "臺北市買賣成交 113Q3–115Q2 與 115/9/11 期；預售屋成交 113Q3–115Q2 與當期（新建案分析）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "OpenStreetMap 步行路由（FOSSGIS routing.openstreetmap.de，foot profile）",
+   "url": "https://routing.openstreetmap.de/",
+   "type": "開放圖資",
+   "used_for": "物件座標到各出入口的步行路徑距離（批次查詢）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "OpenStreetMap Nominatim",
+   "url": "https://nominatim.openstreetmap.org/",
+   "type": "開放圖資",
+   "used_for": "無座標物件的「路段代表點」粗估（不列入判斷）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "信義房屋 買屋",
+   "url": "https://www.sinyi.com.tw/buy/list/Taipei-city/106-110-zip/default-desc/index",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、面積拆分、物件描述",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "永慶房屋 買屋",
+   "url": "https://buy.yungching.com.tw/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、面積拆分、登記用途",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "住商不動產 買屋",
+   "url": "https://www.hbhousing.com.tw/BuyHouse/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、面積拆分、管理費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "中信房屋 買屋",
+   "url": "https://buy.cthouse.com.tw/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、謄本面積明細",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "台灣房屋 買屋",
+   "url": "https://www.twhg.com.tw/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、面積拆分",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "太平洋房屋",
+   "url": "https://www.pacific.com.tw/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、總坪",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "東森房屋",
+   "url": "https://www.etwarm.com.tw/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、主＋附合計面積",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "21世紀不動產",
+   "url": "https://www.century21.com.tw/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、面積",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "有巢氏房屋",
+   "url": "https://buy.u-trust.com.tw/",
+   "type": "房仲刊登",
+   "used_for": "刊登開價、面積",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "591 房屋交易（僅供人工瀏覽；本研究未採用其資料）",
+   "url": "https://sale.591.com.tw/",
+   "type": "房仲刊登（未採用）",
+   "used_for": "請自行以瀏覽器查看；條款禁止自動化擷取",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "OpenStreetMap（Overpass API 查詢：車站中心半徑 1.2 公里內 school/marketplace/supermarket/park/hospital/bicycle_rental/station）",
+   "url": "https://overpass-api.de/api/interpreter",
+   "type": "區域研究",
+   "used_for": "微區域：信義路四段北側＋安和路一段巷弄（站體正北（群眾協作圖資，可能過時或漏列；距離為與車站中心的直線距離，非步行距離）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市公車動態資訊系統—捷運信義安和站(信義) 站牌",
+   "url": "https://pda5284.gov.taipei/MQS/stop.jsp?sid=150579",
+   "type": "區域研究",
+   "used_for": "微區域：信義路四段北側＋安和路一段巷弄（站體正北",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市都市更新處—更新審議辦理情形（大安區）",
+   "url": "https://uro.gov.taipei/cp.aspx?n=E06DCE2A43AF2B4F&s=C21E0D057C081F16",
+   "type": "區域研究",
+   "used_for": "微區域：信義路四段北側＋安和路一段巷弄（站體正北",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市政府新聞稿：「通化安和」公辦都更案今簽約（2026-06-01）",
+   "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=6F25C85701911E64",
+   "type": "區域研究",
+   "used_for": "微區域：安和路二段／敦化南路二段巷弄（站體西南；",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市市場處—臨江街攤販集中場（臨江街觀光夜市）",
+   "url": "https://www.tcma.gov.taipei/News_Content.aspx?n=FAC14AD2DE4E01A4&sms=32F7BA052C5CA548&s=9A5FBF2E607D28CA",
+   "type": "區域研究",
+   "used_for": "微區域：通化街／臨江街夜市周邊（站體東南）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "內政部國土管理署都市更新入口網—捷運信義安和站暨通化街周邊更新地區",
+   "url": "https://twur.cpami.gov.tw/zh/urban/area/view/509",
+   "type": "區域研究",
+   "used_for": "微區域：通化街／臨江街夜市周邊（站體東南）（網站憑證過期，以略過憑證檢查方式讀取；另有 twur.nlma.gov.tw 同）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北旅遊網—文昌街_家具街",
+   "url": "https://www.travel.taipei/zh-tw/attraction/details/1545",
+   "type": "未能開啟（HTTP 403）",
+   "used_for": "僅引用搜尋引擎摘要，未開啟原頁；不作為任何數字依據。微區域：文昌街／通安街（家具街；站體正南至東南）（原頁 HTTP 403（防爬），內容依搜尋引擎摘要）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "財團法人都市更新研究發展基金會—大安區信義光復更新案",
+   "url": "https://www.ur.org.tw/plan/career_view/60",
+   "type": "區域研究",
+   "used_for": "微區域：文昌街／通安街（家具街；站體正南至東南）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市都市更新處—信維整宅案",
+   "url": "https://uro.gov.taipei/News_Content.aspx?n=D29C05A6ADA5DA39&sms=F1038874837B0DFB&s=D8B2CE084A7CC8BE",
+   "type": "區域研究",
+   "used_for": "微區域：敦化南路以西：仁愛路四段／大安路／東豐街",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市都市更新處—更新審議辦理情形（信義區）",
+   "url": "https://uro.gov.taipei/cp.aspx?n=E06DCE2A43AF2B4F&s=C1FEB2DEC57919C7",
+   "type": "區域研究",
+   "used_for": "微區域：光復南路／延吉街南段／國父紀念館南側（站",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "住展雜誌：投資逾60億 學府敦南公辦都更案簽約（2023-07-13）",
+   "url": "https://www.myhousing.com.tw/n/n01/north-taiwan/taipei-city-estate/152160/",
+   "type": "未能開啟（HTTP 403）",
+   "used_for": "僅引用搜尋引擎摘要，未開啟原頁；不作為任何數字依據。微區域：和平東路三段／敦化南路二段南段（遠企周邊",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "維基百科—信義安和站",
+   "url": "https://zh.wikipedia.org/zh-tw/%E4%BF%A1%E7%BE%A9%E5%AE%89%E5%92%8C%E7%AB%99",
+   "type": "區域研究",
+   "used_for": "行政區",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市環保局—公告重新劃定臺北松山機場航空噪音防制區圖（臺北市部分）範圍及分級",
+   "url": "https://www.dep.gov.taipei/News_Content.aspx?n=0AADCAF4D1738405&s=416919485C45C8D2",
+   "type": "區域研究",
+   "used_for": "航道／航空噪音",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "契稅條例第3條（稅率）",
+   "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340105&flno=3",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：契稅（買方）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "契稅條例第4條（買受人申報）",
+   "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340105&flno=4",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：契稅（買方）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "契稅條例第13條（契價）",
+   "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340105&flno=13",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：契稅（買方）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "契稅條例第16條（申報期限）",
+   "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340105&flno=16",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：契稅（買方）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "印花稅法第7條",
+   "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340091&flno=7",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：印花稅（買方，實務上由買方負擔）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "土地法第76條",
+   "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0060001&flno=76",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：登記規費—所有權移轉登記費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市政府地政局—登記費如何計算？",
+   "url": "https://land.gov.taipei/News_Content.aspx?n=16D7DECD4329DFFC&s=B947D670B2CC51EF",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：登記規費—所有權移轉登記費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市政府地政局—登記費（項目表）",
+   "url": "https://land.gov.taipei/cp.aspx?n=E4D6088892172DF9",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：登記規費—所有權移轉登記費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "土地法第67條",
+   "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0060001&flno=67",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：登記規費—書狀費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市政府地政局—書狀費、工本費及閱覽費",
+   "url": "https://land.gov.taipei/cp.aspx?n=CDD18E0B6680D417",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：登記規費—書狀費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "地政士法（全國法規資料庫）",
+   "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0060081",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：地政士（代書）服務費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "內政部主管法規共用系統—不動產仲介經紀業報酬計收標準規定（89-05-02 發布、89-07-19 修正，89-07-01 實施）",
+   "url": "https://glrs.moi.gov.tw/LawContent.aspx?id=FL053366",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：仲介服務費",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市稅捐稽徵處—高級住宅如何認定？（資料更新 115-04-08）",
+   "url": "https://tpctax.gov.taipei/News_Content.aspx?n=579D07D478597713&sms=87415A8B9CE81B16&s=83D95D44A1E7C0A7",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：臺北市「高級住宅」房屋稅加價（持有成本；與 8,000 萬門檻直接相關）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市稅捐稽徵處—高級住宅房屋稅加價方式？（資料更新 115-04-08）",
+   "url": "https://tpctax.gov.taipei/News_Content.aspx?n=BB8B93F0A49EAB80&sms=87415A8B9CE81B16&s=D30CC07B9FDE1BF4",
+   "type": "法規／官方",
+   "used_for": "交易成本規則：臺北市「高級住宅」房屋稅加價（持有成本；與 8,000 萬門檻直接相關）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市資料大平臺—臺北市住宅價格季指數（API 資源 3210976b-f578-483c-8853-3ceec3796877，資源更新 2026-08-04）",
+   "url": "https://data.taipei/dataset/detail?id=954911b5-896d-4ae1-9ebe-87c4ba8a191e",
+   "type": "官方統計",
+   "used_for": "臺北市住宅價格季指數—大安區",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市政府地政局新聞稿：臺北市115Q1不動產市場動態分析",
+   "url": "https://land.gov.taipei/News_Content.aspx?n=0ABE9F8A3E5B75C2&sms=72544237BBE4C5F6&s=A6CA9AC518C4C4E2",
+   "type": "官方統計",
+   "used_for": "臺北市 115Q1 不動產市場動態分析（新聞稿）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市政府地政局新聞稿：115年5月臺北市房市交易量增加3.82% 住宅價格指數上升0.61%",
+   "url": "https://land.gov.taipei/News_Content.aspx?n=0ABE9F8A3E5B75C2&sms=72544237BBE4C5F6&s=A2EEC4F81258954E",
+   "type": "官方統計",
+   "used_for": "115 年 5 月臺北市實價登錄量價動態（月報新聞稿；2026-09-20 時最新一期）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "臺北市政府地政局新聞稿：臺北市114年不動產市場動態年報",
+   "url": "https://land.gov.taipei/News_Content.aspx?n=0ABE9F8A3E5B75C2&sms=72544237BBE4C5F6&s=2B622AE6490B2AD8",
+   "type": "官方統計",
+   "used_for": "臺北市 114 年不動產市場動態年報（新聞稿）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "信義房屋—捷運信義安和站實價登錄",
+   "url": "https://www.sinyi.com.tw/tradeinfo/mrt/Taipei-R-mrtline/04-mrt",
+   "type": "第三方平台統計（非官方）",
+   "used_for": "房仲／平台對「信義安和站」或「安和生活圈」之統計（非官方）",
+   "accessed": "2026-09-20"
+  },
+  {
+   "title": "樂居—安和生活圈房價",
+   "url": "https://www.leju.com.tw/map/region?mode=price&city=A&area=A106&sid=10339",
+   "type": "未能開啟（HTTP 403）",
+   "used_for": "僅引用搜尋引擎摘要，未開啟原頁；不作為任何數字依據。房仲／平台對「信義安和站」或「安和生活圈」之統計（非官方）",
+   "accessed": "2026-09-20"
+  }
+ ],
+ "platform_log": [
+  {
+   "platform_name": "信義房屋",
+   "access_method": "curl 讀公開列表頁與物件頁（內嵌 __NEXT_DATA__）；robots.txt 允許；約 272 次請求",
+   "scanned_count": 959,
+   "kept_count": 171,
+   "limitations": "地址只到路段；座標由平台提供（可能偏移）；無完工日與更新日；車位是否必買頁面無欄位；無電梯屬研究推論（類型=公寓）。",
+   "listings_in_final_dataset": 162
+  },
+  {
+   "platform_name": "永慶房屋",
+   "access_method": "curl 讀 robots.txt 允許的 /list/ 與 /house/ 頁；未呼叫被禁止的 /api、/ws；約 273 次請求",
+   "scanned_count": 387,
+   "kept_count": 110,
+   "limitations": "座標只存在於編碼過的頁面狀態字串 → 本研究不使用其座標；無刊登日、完工日、車位是否必買；33 筆登記用途非住家已標記。",
+   "listings_in_final_dataset": 85
+  },
+  {
+   "platform_name": "住商不動產",
+   "access_method": "curl 讀列表頁自身呼叫的公開 JSON 與物件頁；robots.txt 允許；約 222 次請求",
+   "scanned_count": 1419,
+   "kept_count": 117,
+   "limitations": "加盟體系同一物件多店重複建檔（已去重，偶有不同開價）；面積以 1㎡=0.3025 坪換算到小數 2 位；14 筆主建物＝總建坪（加盟店未填拆分）；無車位單價與可否分售。",
+   "listings_in_final_dataset": 114
+  },
+  {
+   "platform_name": "台灣房屋",
+   "access_method": "curl 讀 /buy/list 與 /buy/<編號>（不在 robots.txt 禁止範圍）；未抓 /sale/、/api/、/tools/",
+   "scanned_count": 114,
+   "kept_count": 9,
+   "limitations": "範圍內一般住宅很少（多為店面、辦公）；社區名、管理方式欄位皆空；無車位單價。",
+   "listings_in_final_dataset": 8
+  },
+  {
+   "platform_name": "中信房屋",
+   "access_method": "curl 讀列表頁自身呼叫的公開 JSON 與物件頁；robots.txt 全部允許",
+   "scanned_count": 855,
+   "kept_count": 71,
+   "limitations": "6 筆列表有、詳情為空殼 → 未收錄；座標為平台地址定位（頁面自述僅供參考）；無社區名、完工日、電梯欄位；公寓多只有主建物一項。",
+   "listings_in_final_dataset": 69
+  },
+  {
+   "platform_name": "太平洋房屋",
+   "access_method": "以內建瀏覽器像一般使用者開啟公開頁面後轉錄（頁面為前端渲染）",
+   "scanned_count": 76,
+   "kept_count": 8,
+   "limitations": "附屬建物組成未拆分；資料為瀏覽器畫面轉錄而非原始回應。",
+   "listings_in_final_dataset": 7
+  },
+  {
+   "platform_name": "東森房屋",
+   "access_method": "curl 讀公開列表與物件頁",
+   "scanned_count": 112,
+   "kept_count": 12,
+   "limitations": "平台只揭露「主建物＋附屬建物」合計，沒有主建物單獨數字 → 這些刊登單獨存在時 A 口徑為「面積待確認」。",
+   "listings_in_final_dataset": 11
+  },
+  {
+   "platform_name": "21世紀不動產",
+   "access_method": "curl 讀公開列表與物件頁",
+   "scanned_count": 73,
+   "kept_count": 8,
+   "limitations": "面積四捨五入到小數 2 位；研究當天 13:20 左右網站一度回資料庫錯誤，13:45 恢復。",
+   "listings_in_final_dataset": 8
+  },
+  {
+   "platform_name": "有巢氏房屋",
+   "access_method": "curl 讀公開 /region/ 與 /house/ 頁；未呼叫 robots.txt 禁止的 /api",
+   "scanned_count": 124,
+   "kept_count": 22,
+   "limitations": "頁面主體偶爾渲染成別的物件，只採用編號相符的資料；座標來自編碼狀態字串 → 本研究不使用。",
+   "listings_in_final_dataset": 20
+  },
+  {
+   "platform_name": "大家房屋",
+   "access_method": "未抓取",
+   "scanned_count": null,
+   "kept_count": 0,
+   "limitations": "物件列表只能經 robots.txt 禁止的 /ajax/ 取得，無合規方式列舉。",
+   "listings_in_final_dataset": 0
+  },
+  {
+   "platform_name": "591 房屋交易",
+   "access_method": "蒐集後發現條款禁止 → 停止並隔離，未採用",
+   "scanned_count": 3418,
+   "kept_count": 0,
+   "limitations": "物件頁頁尾聲明禁止未經授權以爬蟲／自動下載程式擷取（並稱每筆收費 3,000 元）。發現前 agent 已發出約 345 次請求；發現後立即停止，591 資料完全未進入本網站與分析，原始檔隔離於 research_raw/_quarantine_591_not_used/。591 常有巷弄門牌與屋主自售物件，缺少它是本研究的覆蓋缺口，請用一般瀏覽器人工補看。",
+   "listings_in_final_dataset": 0
+  },
+  {
+   "platform_name": "樂屋網、樂居",
+   "access_method": "未抓取",
+   "scanned_count": null,
+   "kept_count": 0,
+   "limitations": "對一般請求回 HTTP 403，未嘗試繞過。",
+   "listings_in_final_dataset": 0
+  }
+ ]
+}
