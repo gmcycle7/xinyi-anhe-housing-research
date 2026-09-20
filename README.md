@@ -4,6 +4,14 @@
 
 > 公開版說明：應使用者要求，本專案於 2026-09-20 以公開 GitHub repo＋GitHub Pages 發布（含刊登頁截圖，由使用者決定）。`research_raw/`（各平台原始頁面與隔離的 591 資料）與 `qa/*.png` **沒有**上傳，只保留在使用者本機。收藏與筆記存在每位瀏覽者自己的瀏覽器，不會上傳、也不會互相看到。
 
+## 線上版
+
+- 網站：<https://gmcycle7.github.io/xinyi-anhe-housing-research/>
+- 原始碼：<https://github.com/gmcycle7/xinyi-anhe-housing-research>
+- 線上版與本機 `index.html` 是不同的瀏覽器儲存空間：在線上版做的收藏與筆記只存在那台裝置的瀏覽器，不會同步到本機版，也不會被其他訪客看到；要搬移請用「收藏與筆記」頁的匯出／匯入。
+- 更新線上版：重建資料後在專案資料夾執行 `git add -A && git commit -m "更新房源" && git push`，約 1 分鐘後生效。`research_raw/` 已列在 `.gitignore`，不會被上傳。
+- 撤下網站：到 GitHub repo 的 Settings → Pages 關閉，或把 repo 改為 Private／刪除。
+
 ## 怎麼開
 
 **直接用瀏覽器開啟 `index.html` 即可**（雙擊，或把檔案拖進 Chrome／Safari）。不需要安裝、不需要伺服器、不需要登入。
